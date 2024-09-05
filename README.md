@@ -16,5 +16,5 @@ If Pygame is not installed it can installed with the following methods (requires
 
 Using Pip:
 ```
-python3 -m pip install -U pygame --user
+pip install pygame
 ```
